@@ -33,7 +33,8 @@ project-root/
 │   ├── live_code.py            # Runs detection on live camera using OpenCV
 │   ├── face.py              # Contains funtions for generating and checking face embeddings agaist the stored embeddings.
 ├   |── YoloObjTraining/  # Object detection training models and scripts
-|   |── faceid/          # Face recognition (face IDs) training models and scripts
+|   |── faceid/          # Face recognition (face IDs) training models and script
+|   |── models/          # This folder contains weights for yolo v8 for face and object detection. Please download this folder from the drive link.
 │
 ├── requirements.txt
 └── README.md
