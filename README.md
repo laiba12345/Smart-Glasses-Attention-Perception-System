@@ -71,6 +71,8 @@ All executable scripts are located in the **`source/`** directory.
 python source/attention_tracking.py
 ```
 
+**MUST UPDATE PATHS IN ATTECTION_TRACKING.PY**
+
 **Supported features:**
 
 * Face recognition
