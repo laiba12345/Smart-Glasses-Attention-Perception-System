@@ -1,4 +1,4 @@
-# Smart Glasses – Attention & Perception System
+# IRIS HUD - Laiba Asmatullah, Madhav Gupta
 
 ## Project Overview
 
@@ -33,7 +33,7 @@ project-root/
 │   ├── live_code.py            # Runs detection on live camera using OpenCV
 │   ├── face.py              # Contains funtions for generating and checking face embeddings agaist the stored embeddings.
 ├   |── YoloObjTraining/  # Object detection training models and scripts
-|   |── faceid/          # Face recognition (face IDs) training data and models
+|   |── faceid/          # Face recognition (face IDs) training models and scripts
 │
 ├── requirements.txt
 └── README.md
