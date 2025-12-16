@@ -9,7 +9,6 @@ The system can operate in two modes:
 * **Video-based processing**
 * **Live camera processing**
 
-Due to computational constraints, **gaze detection is implemented only for video input**.
 
 ---
 
