@@ -32,9 +32,9 @@ project-root/
 ├── source/
 │   ├── attention_tracking.py   # Runs detection on video input
 │   ├── live_code.py            # Runs detection on live camera using OpenCV
-│
-├── object_detection_training/  # Object detection training models and scripts
-├── face_ids_training/          # Face recognition (face IDs) training data and models
+│   ├── face.py              # Contains funtions for generating and checking face embeddings agaist the stored embeddings.
+├   |── YoloObjTraining/  # Object detection training models and scripts
+|   |── faceid/          # Face recognition (face IDs) training data and models
 │
 ├── requirements.txt
 └── README.md
@@ -103,7 +103,6 @@ python source/live_code.py
 
 * If you encounter file or model loading errors, you may need to **update file paths** inside the code.
 * Ensure the required model files are present in their respective directories.
-* Make sure your webcam is not being used by another application when running live mode.
 
 ---
 
@@ -117,7 +116,6 @@ python source/live_code.py
 
   * Contains data and models for face recognition training
 
-These folders are not required for inference unless retraining or extending the models.
 
 ---
 
