@@ -34,7 +34,8 @@ project-root/
 │   ├── face.py              # Contains funtions for generating and checking face embeddings agaist the stored embeddings.
 ├   |── YoloObjTraining/  # Object detection training models and scripts
 |   |── faceid/          # Face recognition (face IDs) training models and script
-|   |── models/          # This folder contains weights for yolo v8 for face and object detection. Please download this folder from the drive link.
+|   |── models/          # This folder contains weights for yolo v8 for face and object detection. Please download this folder from the drive link:
+                         https://drive.google.com/drive/folders/1n0wtizOewng-qIcrYg5KiqYsYKvEld6F
 │
 ├── requirements.txt
 └── README.md
