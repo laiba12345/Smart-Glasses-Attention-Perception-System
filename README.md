@@ -1,5 +1,7 @@
 # IRIS HUD - Laiba Asmatullah, Madhav Gupta
+## Demo
 
+https://github.com/laiba12345/Smart-Glasses-Attention-Perception-System/edit/main/data/Demo.mp4
 ## Project Overview
 
 This project presents a **Smart Glasses System** designed to understand user attention and surroundings using computer vision and AI techniques. The system combines multiple perception modules to analyze faces, emotions, gaze direction, objects in view, and spoken audio.
